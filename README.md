@@ -20,4 +20,7 @@ adkwai.com
 freelynet.com
 laidianbanlv.cn
 banlianghao.com
+diyring.cc
+ringbox.cn
+everwin.cn
 ```
