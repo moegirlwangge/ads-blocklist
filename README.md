@@ -13,7 +13,7 @@ doubleclick.net
 fengmang156.com
 yunsiya.com
 googleadservices.com
-engine.iqushai.com
+iqushai.com
 mintegral.com
 adsl.cn
 adkwai.com
