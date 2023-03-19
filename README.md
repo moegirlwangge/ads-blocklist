@@ -23,4 +23,6 @@ banlianghao.com
 diyring.cc
 ringbox.cn
 everwin.cn
+startapp.com
+appinfo.gdt.qq.com
 ```
