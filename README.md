@@ -25,4 +25,10 @@ ringbox.cn
 everwin.cn
 startapp.com
 appinfo.gdt.qq.com
+wu4647.xyz
+v.qisaoba.com
+heitu.com
+conwaytech.cn
+h5.gdt.qq.com
+kyw4y0s.com
 ```
