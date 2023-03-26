@@ -31,4 +31,6 @@ heitu.com
 conwaytech.cn
 h5.gdt.qq.com
 kyw4y0s.com
+marbct.xyz
+gtimg.com
 ```
