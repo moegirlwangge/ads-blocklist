@@ -31,7 +31,9 @@ conwaytech.cn
 kyw4y0s.com
 marbct.xyz
 gtimg.com
+sc-001.net
 appinfo.gdt.qq.com
 h5.gdt.qq.com
 c2.gdt.qq.com
+v.gdt.qq.com
 ```
