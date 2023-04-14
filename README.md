@@ -32,6 +32,7 @@ kyw4y0s.com
 marbct.xyz
 gtimg.com
 sc-001.net
+rayjump.com
 appinfo.gdt.qq.com
 h5.gdt.qq.com
 c2.gdt.qq.com
